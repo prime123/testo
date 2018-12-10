@@ -1,0 +1,14 @@
+<!doctype html>
+<body>
+<script>
+u=prompt('Enter a number:')
+if (u<10)
+{
+document.write('this number is less')
+}
+else
+{
+document.write('this is large number')
+}
+</script>
+</body>
